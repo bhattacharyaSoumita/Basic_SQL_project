@@ -23,4 +23,3 @@ B. Requirements that need to be solved as a Data Analyst:
 
 8.We would like to better understand what your customer base looks like. Please provide a list of all customer identification values, with a count of rentals they have made all-time, with your highest volume customers at the top of the list.
 
-A special Gratitude to Maven Analytics making this learning journey even more rewarding.
